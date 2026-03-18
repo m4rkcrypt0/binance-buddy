@@ -129,4 +129,3 @@ Do **not** commit:
 - `INSTALL.md` — installation guide
 - `SETUP.md` — environment and configuration guide
 - `SKILLS.md` — skill catalog
-- `GITHUB-PUBLISHING.md` — GitHub publishing notes
