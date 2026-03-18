@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Personal / memory files
+MEMORY.md
+memory/
+USER.md
+TOOLS.md
+SOUL.md
+AGENTS.md
+IDENTITY.md
+HEARTBEAT.md
+
+# OpenClaw local runtime state
+.openclaw/
+data/
+exports/
+skills/data/
+skills/**/state/
+*.log
+*.lock
+
+# Python / cache
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# GitHub public repo hygiene
+*.tar.gz
+*.zip
